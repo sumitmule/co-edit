@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import LanguageSelect from '../components/languageSelect'
+import LanguageSelect from '../components/LanguageSelect'
 import EditorWindow from '../components/EditorWindow'
 import { languageOptions } from '../constants/languageOptions'
 import { useLocation } from 'react-router-dom'
